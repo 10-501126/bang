@@ -2,7 +2,7 @@
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
 body{padding:0; margin:0;box-sizing: border-box;}
 
-.content{width:750px;text-align: center;margin:auto; height:700px;background-image:url(https://10-501126.github.io/bang/auto2muji.jpg)}
+.content{width:750px;text-align: center;margin:auto; height:700px;background-image:url(https://10-501126.github.io/bang/auto2.jpg)}
 /* bacgkround-image:url(https://10-501126.github.io/bang/auto2muji.jpg) */
 
 
@@ -17,7 +17,7 @@ li{list-style-type: none;}
 
 .aside{width:30%;}
 
-.result_data_none{position:absolute; width:500px; height:200px ;background-color:#aaa; font-size: 28px; line-height: 180px; top:30%;left:calc(50% - 250px);}
+.result_data_none{position:absolute; width:500px; height:200px ;background-color:#ffffff; font-size: 28px; line-height: 50px; top:30%;left:calc(50% - 250px);}
 
 
 
@@ -32,23 +32,25 @@ ul {margin-block-start: 0;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     padding-inline-start: 0px}
-.table_head{width:70%; font-weight:700}
+.table_head{width:90%; font-weight:700}
 .table_head li {display:flex; text-align: right; line-height: 60px;height:60px;width:100%; border:0px solid #000;}
 .line{font-size:25px;}
 
 .table_head li p{width:50%;}
 .table_head li p:first-child{border-right:0px solid #000;}
 
-.table_head li .line {width:50%;}
+.table_head li .line {width:80%;}
 .table_head li .line:first-child{border-right:0px solid #000}
 
 
-.div1 h1{display:block;width:100%;color:#fff;line-height:70px; text-indent:-9999;}
-.div1>p{font-size:25px;margin-top:40px;}
-.div1>p input{font-size:25px;width:15%; margin:0 10px;}
+.div1 h1{display:block;width:100%;color:#fff;line-height:145px; text-indent:-9999;}
+.div1>p{font-size:30px;margin-top:38px;}
+.div1>p input{font-size:10px;width:16%; margin:0 25px;}
 
 .div1>p{font-size:25px;}/*상단 텍스트 폰트 크기*/
-.div1>p input{font-size:25px; text-align: center;border:none;} /*입력창 폰트크기*/
+.div1>p input:nth-child(1){margin-left:80px; margin-right:15px;}
+.div1>p input:nth-child(2){margin-left:100px; margin-right:13px;}
+.div1>p input{font-size:25px; text-align:center;border:none;margin-left:1px; margin-right:1px;} /*입력창 폰트크기*/
 .div1>p input:focus{outline:none;}
 
 
