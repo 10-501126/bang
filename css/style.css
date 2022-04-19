@@ -17,6 +17,8 @@ li{list-style-type: none;}
 
 .aside{width:30%;}
 
+.result_data_none{position:absolute; width:500px; height:200px ;background-color:#aaa; font-size: 28px; line-height: 180px; top:30%;left:calc(50% - 250px);}
+
 
 
 .aside li { width:100%; border: 0px solid #555; height:60px;line-height: 60px; font-weight:700}
