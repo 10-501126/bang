@@ -9,7 +9,7 @@ body{padding:0; margin:0;box-sizing: border-box;}
 
 li{list-style-type: none;}
 
-.cont{display:flex; width:80%;margin:50px auto;  font-size:24px;}
+.cont{display:flex; width:84%;margin:46px auto;  font-size:24px;}
 
 
 *{font-family: 'Nanum Gothic', sans-serif;}
@@ -44,7 +44,7 @@ ul {margin-block-start: 0;
 
 
 .div1 h1{display:block;width:100%;color:#fff;line-height:145px; text-indent:-9999;}
-.div1>p{font-size:30px;margin-top:38px;}
+.div1>p{font-size:30px;margin-top:41px;}
 .div1>p input{font-size:10px;width:16%; margin:0 25px;}
 
 .div1>p{font-size:25px;}/*상단 텍스트 폰트 크기*/
