@@ -17,7 +17,7 @@ li{list-style-type: none;}
 
 .aside{width:30%;}
 
-.result_data_none{position:absolute; width:500px; height:150px ;background-color:#ffffff; font-size: 28px; line-height: 50px; top:30%;left:calc(50% - 250px);}
+.result_data_none{position:absolute; width:500px; height:100px ;background-color:#ffffff; font-size: 28px; line-height: 50px; top:30%;left:calc(50% - 250px);}
 
 
 
