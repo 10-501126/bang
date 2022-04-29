@@ -10,7 +10,7 @@ body{padding:0; margin:0;box-sizing: border-box;}
 
 li{list-style-type: none;}
 
-.cont{display:flex; width:84%;margin:46px auto;  font-size:24px;}
+.cont{display:flex; width:84%;margin:43px auto;  font-size:24px;}
 
 
 *{font-family: 'Nanum Gothic', sans-serif;}
@@ -34,7 +34,7 @@ ul {margin-block-start: 0;
     margin-inline-end: 0px;
     padding-inline-start: 0px}
 .table_head{width:90%; font-weight:700}
-.table_head li {display:flex; text-align: right; line-height: 60px;height:60px;width:100%; border:0px solid #000;}
+.table_head li {display:flex; text-align: right; line-height: 53px;height:53px;width:100%; border:0px solid #000;}
 .line{font-size:25px;}
 
 .table_head li p{width:50%;}
