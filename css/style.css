@@ -2,7 +2,8 @@
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
 body{padding:0; margin:0;box-sizing: border-box;}
 
-.content{width:750px;text-align: center;margin:auto; height:700px;background-image:url(https://10-501126.github.io/bang/auto2.jpg)}
+.content{max-width:100% !important;text-align: center;margin:auto; height:700px;background-image:url(https://10-501126.github.io/bang/auto2.jpg);    background-position: center;
+    background-size: contain;}
 /* bacgkround-image:url(https://10-501126.github.io/bang/auto2muji.jpg) */
 
 
